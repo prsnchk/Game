@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Game",
+			"path": "."
+		},
+		{
+			"name": "Goose",
+			"path": "../../Downloads/Goose"
+		}
+	],
+	"settings": {}
+}
